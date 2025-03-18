@@ -85,7 +85,7 @@ thead{
     width: 30px;
 }
 #home{ 
-    background: linear-gradient(rgba(0,0,0,0.1),#222), url("My_image/taxi3.jfif");
+    background: linear-gradient(rgba(0,0,0,0.1),#222), url("taxi3.jfif");
     background-position: center;
     background-size: cover;
     height: calc(60vh - 50px); 
